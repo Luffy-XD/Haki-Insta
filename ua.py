@@ -11,7 +11,7 @@ def goblin():
 	bhs = str(rc(["id_ID","en_US","ly_LY","en_GB","in_id"]))
 	igv = ("315.0.0.26.121,310.0.0.28.118,305.0.0.34.110,300.0.0.33.135,295.0.0.0.22,290.0.0.25.131,285.0.0.0.128,280.0.0.13.119,275.0.0.0.106,270.0.0.3.143,265.0.0.31.123,260.0.0.11.112,255.0.0.18.121,250.0.0.27.145,245.0.0.0.200")
 	igve = igv.split(",")
-	igve = str(rc(igve)
+	igve = str(rc(igve))
 	return (f"Instagram {versi} Android ({andro}; {dpi}dpi; {res}; samsung; {model}; {cpu}; {chip}; {bhs}; {id})")
 ua = goblin()
 print(f"ua:",ua)
