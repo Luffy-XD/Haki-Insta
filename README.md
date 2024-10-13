@@ -2,7 +2,7 @@
 
 <h3 align="left">Cara Install Script:</h3>
 
-- Download Apk Termuxnya Disini Biar Engga Erorr <a href="https://f-droid.org/repo/com.termux_117.apk">Klik Disini</a>
+- Download Apk Termuxnya Disini Biar Engga Erorr <a href="https://f-droid.org/repo/com.termux_118.apk">Klik Disini</a>
 
 - lalu buka aplikasinya ketikan perintah dibawah ini.
 
