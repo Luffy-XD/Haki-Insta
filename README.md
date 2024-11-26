@@ -1,5 +1,4 @@
-# INI ADALAH SCRIPT/TOOLS UNTUK MELAKUKAN CRACKING PADA AKUN INSTAGRAM
-
+# SCRIPT CRACK INSTAGRAM 2024
 <h3 align="left">Cara Install Script:</h3>
 
 - Download Apk Termuxnya Disini Biar Engga Erorr <a href="https://f-droid.org/repo/com.termux_118.apk">Klik Disini</a>
