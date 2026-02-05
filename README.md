@@ -1,4 +1,4 @@
-# SCRIPT HACK/CRACK INSTAGRAM 2025
+# SCRIPT CRACK INSTAGRAM 2026
 <h3 align="left">Cara Install Script:</h3>
 
 - Download Apk Termuxnya Disini Biar Engga Erorr <a href="https://f-droid.org/repo/com.termux_1022.apk">Klik Disini</a>
